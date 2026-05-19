@@ -1,4 +1,4 @@
-// 2. Program to reverse the digits of a number
+//Program to reverse the digits of a number
 
 #include<stdio.h>
 

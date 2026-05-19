@@ -1,7 +1,6 @@
 //Program to check if a number is an Armstrong number
 
 #include<stdio.h>
-
 int main() {
 
     int num, originalNum, rem, result = 0;
