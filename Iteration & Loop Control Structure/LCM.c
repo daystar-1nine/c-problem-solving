@@ -3,6 +3,14 @@
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to find the Least Common Multiple (LCM) of two numbers.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int first, second;
 

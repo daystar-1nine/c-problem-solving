@@ -31,6 +31,14 @@ void displayStudent(struct Student s) {
 }
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Write a function where the Student structure also has books they have borrowed inside, showing nested structure usage.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     struct Student student1 = {
         101,

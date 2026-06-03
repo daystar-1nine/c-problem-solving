@@ -2,6 +2,14 @@
 
 #include <stdio.h>
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program that takes two numbers and shows result of all arithmetic operators (+, -, *, /, %).
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int num1;
     int num2;

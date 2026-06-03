@@ -3,6 +3,14 @@
 #include<stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: 3. Program using infinite loop and break statement
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int num;
 

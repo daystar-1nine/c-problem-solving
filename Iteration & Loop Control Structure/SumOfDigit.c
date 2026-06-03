@@ -3,6 +3,14 @@
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program that computes the sum of the digits of an integer.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     printf("Sum of Digits!!!\n\n");
 

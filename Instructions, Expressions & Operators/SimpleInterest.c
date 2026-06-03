@@ -4,6 +4,14 @@
 
 #include <stdio.h>
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to calculate simple interest. Simple Interest = (P × T × R) / 100
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int principal, time;
     float interest;

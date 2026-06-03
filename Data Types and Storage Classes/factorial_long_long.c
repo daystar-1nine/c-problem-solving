@@ -7,6 +7,14 @@ calculating the factorial of 20.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Write a program to demonstrate the difference in range between long and long long by calculating the factorial of 20.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int i;
 
     long factorial_long = 1;

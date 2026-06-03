@@ -7,6 +7,14 @@ password checker until a valid password is entered.
 #include <string.h>
 
 int main() {
+    /*
+     * Logic:
+     * 1. Uses a do-while loop to ensure the user is prompted to enter a password at least once.
+     * 2. Safely reads string inputs with %99s to protect the 100-character buffer from overflow.
+     * 3. Uses strcmp() to compare the entered password with "admin123".
+     * 4. If they do not match, displays an error message and continues looping.
+     * 5. Terminates the loop and displays a success message once the correct password is provided.
+     */
     char password[100];
 
     do {

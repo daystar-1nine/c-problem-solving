@@ -3,6 +3,14 @@
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Given an integer value, convert it to a floating-point value and print both.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int num1 = 19;
 

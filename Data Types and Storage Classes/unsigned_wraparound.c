@@ -13,7 +13,15 @@ whereas the int remains negative due to overflow.
 
 int main() {
 
-    // Maximum unsigned int value
+    /*
+     * Logic:
+     * 1. Initializes an unsigned int 'u' to its maximum possible value, UINT_MAX.
+     *    Adding 1 to 'u' causes it to wrap around to 0. Under the C standard, unsigned arithmetic
+     *    behaves according to rules of modulo 2^w (where w is word size), making wraparound defined.
+     * 2. Initializes a signed int 'n' to a negative value (-10).
+     *    Adding 1 to 'n' yields -9. This is standard addition, not an integer overflow.
+     *    (In C, exceeding limits like INT_MAX + 1 causes signed integer overflow, which is undefined).
+     */
     unsigned int u = UINT_MAX;
 
     /* 

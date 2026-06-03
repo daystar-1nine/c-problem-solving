@@ -11,6 +11,14 @@ F -> below 30%
 
 #include <stdio.h>
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program that calculates grades based on marks. A -> above 90% B -> above 75% C -> above 60% D -> above 30% F -> below 30%
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     float marks;
 

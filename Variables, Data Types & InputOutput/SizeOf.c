@@ -3,6 +3,14 @@
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program that declares one variable of each of the fundamental data types (int, float, double, char) and prints their size using sizeof() operator.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int num1 = 1;
     float num2 = 1.1;

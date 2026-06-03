@@ -14,6 +14,14 @@ struct Car {
 };
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Define a Car structure with fields for make, model, year, and color.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     struct Car car1 = {
         "Toyota",

@@ -6,6 +6,14 @@ of all elements in a 2-array.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to do sum and average of all elements in a 2-array.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int arr[3][3];
     int i, j, sum = 0;
     float average;

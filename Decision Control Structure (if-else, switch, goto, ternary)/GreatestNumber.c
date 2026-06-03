@@ -2,6 +2,14 @@
 
 #include<stdio.h>
 int main(){
+    /*
+     * Logic:
+     * - Goal: Create a program that determines the greatest of the three numbers.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     int num1,num2,num3;
 

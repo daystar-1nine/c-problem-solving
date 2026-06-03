@@ -9,6 +9,14 @@ when a special number (e.g., -1) is entered.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Write a program that continuously reads integers from the user and prints their squares. Use an infinite loop and a break statement to exit when a special number (e.g., -1) is entered.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int num;
 
     while(1) {

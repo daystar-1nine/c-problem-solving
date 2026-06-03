@@ -6,6 +6,14 @@ of all elements in an array.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to find the sum and average of all elements in an array.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int arr[5], i;
     int sum = 0;
     float average;

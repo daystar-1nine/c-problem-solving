@@ -8,8 +8,14 @@ and reverses it in place.
 
 // Function Definition
 void reverseString(char str[]) {
-
-    // Remove newline character if present
+    /*
+     * Logic:
+     * 1. Uses strcspn to find the index of '\n' and replaces it with '\0' to safely
+     *    strip trailing newlines left by fgets, preventing index out-of-bounds on empty strings.
+     * 2. Uses a two-pointer approach with 'start' index (0) and 'end' index (strlen(str) - 1).
+     * 3. Swaps characters at 'start' and 'end' using a temporary variable.
+     * 4. Increments start and decrements end in a loop until the pointers meet, reversing the string in-place.
+     */
     str[strcspn(str, "\n")] = '\0';
 
     int start = 0;

@@ -16,6 +16,14 @@ float max(float a, float b) {
 }
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a function max that takes two float arguments and returns the larger value.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     float num1, num2, result;
 
     printf("Enter first number: ");

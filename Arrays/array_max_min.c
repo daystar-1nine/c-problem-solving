@@ -6,6 +6,14 @@ element in an array.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to find the maximum and minimum element in an array.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int arr[5], i;
     int max, min;
 

@@ -5,6 +5,14 @@ Create a program to search an element in a 2-D array.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to search an element in a 2-D array.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int arr[3][3];
     int i, j, num, found = 0;
 

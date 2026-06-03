@@ -6,6 +6,14 @@
 #include <math.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to calculate Compound interest. Compound Interest = P(1 + R / 100)^t
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     printf("Compound Interest!!!\n\n");
 

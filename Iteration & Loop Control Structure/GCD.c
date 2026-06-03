@@ -3,7 +3,16 @@
 #include <stdio.h>
 
 int main() {
-
+    /*
+     * Logic:
+     * 1. Reads two integers 'first' and 'second' with scanf validation to ensure inputs are numeric.
+     * 2. Converts inputs to absolute values ('temp_first', 'temp_second') to support negative coordinates safely.
+     * 3. Implements the iterative Euclidean Algorithm:
+     *    - While the divisor (temp_second) is not 0, computes the remainder: temp_first % temp_second.
+     *    - Shifts temp_second into temp_first, and the remainder into temp_second.
+     *    - This reduces complexity from O(min(a,b)) to logarithmic time O(log(min(a,b))).
+     * 4. The final value left in 'temp_first' is the Greatest Common Divisor (GCD).
+     */
     int first, second;
 
     printf("Welcome to GCD Calculator\n");

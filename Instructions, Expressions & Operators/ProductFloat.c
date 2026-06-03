@@ -2,6 +2,14 @@
 
 #include<stdio.h>
 int main(){
+    /*
+     * Logic:
+     * - Goal: Create a program to calculate product of two floating points numbers.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     float num1;
     float num2;

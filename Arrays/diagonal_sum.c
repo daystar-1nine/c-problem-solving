@@ -5,6 +5,14 @@ Create a program to find the sum of two diagonal elements.
 #include <stdio.h>
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program to find the sum of two diagonal elements.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
     int arr[3][3];
     int i, j;
     int primarySum = 0;

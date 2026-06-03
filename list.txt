@@ -1,0 +1,504 @@
+================================================================================
+                      C PROGRAMMING QUESTIONS & LOCATIONS
+================================================================================
+
+Total Files Listed: 96
+================================================================================
+## Introduction 🧘
+=================
+  (No files/folders in this section yet)
+
+## Variables, Data Types & Input/Output 🌎
+=========================================
+1. Code Location: Variables, Data Types & InputOutput\AreaOfCircle.c
+   Question:
+     Create a program to print the area of a circle by inputting its radius.
+--------------------------------------------------------------------------------
+2. Code Location: Variables, Data Types & InputOutput\AreaOfSquare.c
+   Question:
+     Create a program to print the area of a square by inputting its side length.
+--------------------------------------------------------------------------------
+3. Code Location: Variables, Data Types & InputOutput\Circumference.c
+   Question:
+     Create a program to define a constant for the mathematical value pi (3.14159) and use it to calculate and print the circumference of a circle with a radius input from user.
+--------------------------------------------------------------------------------
+4. Code Location: Variables, Data Types & InputOutput\Declare2number.c
+   Question:
+     Create a program to declare two integer variables, assign them values, and display their values.
+--------------------------------------------------------------------------------
+5. Code Location: Variables, Data Types & InputOutput\NameAge.c
+   Question:
+     Define variables for storing a user's first name, last name, and age using appropriate naming conventions and then display them.
+--------------------------------------------------------------------------------
+6. Code Location: Variables, Data Types & InputOutput\PatternPrint1.c
+   Question:
+     No description/question found at the top of the file.
+--------------------------------------------------------------------------------
+7. Code Location: Variables, Data Types & InputOutput\PatternPrint2.c
+   Question:
+     No description/question found at the top of the file.
+--------------------------------------------------------------------------------
+8. Code Location: Variables, Data Types & InputOutput\SizeOf.c
+   Question:
+     Create a program that declares one variable of each of the fundamental data types (int, float, double, char) and prints their size using sizeof() operator.
+--------------------------------------------------------------------------------
+9. Code Location: Variables, Data Types & InputOutput\Swap.c
+   Question:
+     No description/question found at the top of the file.
+--------------------------------------------------------------------------------
+10. Code Location: Variables, Data Types & InputOutput\Welcome.c
+   Question:
+     Create a program to input name of the person and respond with "Welcome NAME to C World"
+--------------------------------------------------------------------------------
+
+## Instructions, Expressions & Operators 🔒
+==========================================
+11. Code Location: Instructions, Expressions & Operators\AreaOfTriangle.c
+   Question:
+     Create a program to calculate the Area of a Triangle.
+     Area of triangle = ½ * B * H
+--------------------------------------------------------------------------------
+12. Code Location: Instructions, Expressions & Operators\ArithmeticOperators.c
+   Question:
+     Create a program that takes two numbers and shows result of all arithmetic operators (+, -, *, /, %).
+--------------------------------------------------------------------------------
+13. Code Location: Instructions, Expressions & Operators\CompoundInterest.c
+   Question:
+     Create a program to calculate Compound interest.
+     Compound Interest = P(1 + R / 100)^t
+--------------------------------------------------------------------------------
+14. Code Location: Instructions, Expressions & Operators\FahrenheitToCelsius.c
+   Question:
+     Create a program to convert Fahrenheit to Celsius.
+     °C = (°F - 32) × 5 / 9
+--------------------------------------------------------------------------------
+15. Code Location: Instructions, Expressions & Operators\IntToFloat.c
+   Question:
+     Given an integer value, convert it to a floating-point value and print both.
+--------------------------------------------------------------------------------
+16. Code Location: Instructions, Expressions & Operators\PerimeterRectangle.c
+   Question:
+     Create a program to calculate Perimeter of a rectangle.
+     Perimeter of rectangle ABCD = A + B + C + D
+--------------------------------------------------------------------------------
+17. Code Location: Instructions, Expressions & Operators\ProductFloat.c
+   Question:
+     Create a program to calculate product of two floating points numbers.
+--------------------------------------------------------------------------------
+18. Code Location: Instructions, Expressions & Operators\SimpleInterest.c
+   Question:
+     Create a program to calculate simple interest.
+     Simple Interest = (P × T × R) / 100
+--------------------------------------------------------------------------------
+
+## Decision Control Structure (if-else, switch, goto, ternary) ⚡
+================================================================
+19. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\AbsoluteTO.c
+   Question:
+     Create a program to calculate the absolute value of a given integer using ternary operator.
+--------------------------------------------------------------------------------
+20. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\CategorizeAgeGroup.c
+   Question:
+     Create a program that categorize a person into different age groups.
+     Child -> below 13
+     Teen -> below 20
+     Adult -> below 60
+     Senior -> above 60
+--------------------------------------------------------------------------------
+21. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\GradeCalculator.c
+   Question:
+     Create a program that calculates grades based on marks.
+     A -> above 90%
+     B -> above 75%
+     C -> above 60%
+     D -> above 30%
+     F -> below 30%
+--------------------------------------------------------------------------------
+22. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\GreatestNumber.c
+   Question:
+     Create a program that determines the greatest of the three numbers.
+--------------------------------------------------------------------------------
+23. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\LeapYear.c
+   Question:
+     Create a program that determines if a given year is a leap year (considering conditions like divisible by 4 but not 100, unless also divisible by 400).
+--------------------------------------------------------------------------------
+24. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\MinimumNumberTO.c
+   Question:
+     Create a program to find the minimum of two numbers using ternary operator.
+--------------------------------------------------------------------------------
+25. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\NumberChecker.c
+   Question:
+     Create a program that determines if a number is positive, negative, or zero.
+--------------------------------------------------------------------------------
+26. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\OddEven.c
+   Question:
+     Create a program that determines if a number is odd or even.
+--------------------------------------------------------------------------------
+27. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\OddEvenTO.c
+   Question:
+     Create a program to find if the given number is even or odd using ternary operator.
+--------------------------------------------------------------------------------
+28. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\PrintMonthSwitch.c
+   Question:
+     Create a program to print the month of the year based on a number (1-12) input by the user.
+--------------------------------------------------------------------------------
+29. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\ScoreCategoryTO.c
+   Question:
+     Create a program to Based on a student's score, categorize as "High", "Moderate", or "Low" using the ternary operator (e.g., High for scores > 80, Moderate for 50-80, Low for < 50).
+--------------------------------------------------------------------------------
+30. Code Location: Decision Control Structure (if-else, switch, goto, ternary)\SimpleCalculatorSwitch.c
+   Question:
+     Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+--------------------------------------------------------------------------------
+
+## Iteration & Loop Control Structure 🍕
+=======================================
+31. Code Location: Iteration & Loop Control Structure\ArmstrongNumber.c
+   Question:
+     Program to check if a number is an Armstrong number
+--------------------------------------------------------------------------------
+32. Code Location: Iteration & Loop Control Structure\EvenPrint.c
+   Question:
+     2. Program using continue to print only even numbers
+--------------------------------------------------------------------------------
+33. Code Location: Iteration & Loop Control Structure\Factorial.c
+   Question:
+     Write a function that calculates the factorial of a given number.
+--------------------------------------------------------------------------------
+34. Code Location: Iteration & Loop Control Structure\Fibonacci.c
+   Question:
+     Program to print Fibonacci series up to a certain number
+--------------------------------------------------------------------------------
+35. Code Location: Iteration & Loop Control Structure\GCD.c
+   Question:
+     Create a program to find the Greatest Common Divisor (GCD) of two integers.
+--------------------------------------------------------------------------------
+36. Code Location: Iteration & Loop Control Structure\InfiniteLoop.c
+   Question:
+     3. Program using infinite loop and break statement
+--------------------------------------------------------------------------------
+37. Code Location: Iteration & Loop Control Structure\LCM.c
+   Question:
+     Create a program to find the Least Common Multiple (LCM) of two numbers.
+--------------------------------------------------------------------------------
+38. Code Location: Iteration & Loop Control Structure\Multiplication.c
+   Question:
+     Develop a program that prints the multiplication table for a given number.
+--------------------------------------------------------------------------------
+39. Code Location: Iteration & Loop Control Structure\OddSum.c
+   Question:
+     Create a program to sum all odd numbers from 1 to a specified number N.
+--------------------------------------------------------------------------------
+40. Code Location: Iteration & Loop Control Structure\PalindromeNumber.c
+   Question:
+     Program to check if a number is palindrome
+--------------------------------------------------------------------------------
+41. Code Location: Iteration & Loop Control Structure\PatternPrint.c
+   Question:
+     No description/question found at the top of the file.
+--------------------------------------------------------------------------------
+42. Code Location: Iteration & Loop Control Structure\PrimeNumber.c
+   Question:
+     Program to check whether a number is prime using while
+--------------------------------------------------------------------------------
+43. Code Location: Iteration & Loop Control Structure\ReverseNumber.c
+   Question:
+     Program to reverse the digits of a number
+--------------------------------------------------------------------------------
+44. Code Location: Iteration & Loop Control Structure\SumOfDigit.c
+   Question:
+     Create a program that computes the sum of the digits of an integer.
+--------------------------------------------------------------------------------
+45. Code Location: Iteration & Loop Control Structure\SumPositive.c
+   Question:
+     1. Program using continue to sum all positive numbers
+     Skip negative numbers
+--------------------------------------------------------------------------------
+46. Code Location: Iteration & Loop Control Structure\even_numbers_continue.c
+   Question:
+     Create a program using continue to print only even numbers
+     using continue for odd numbers.
+--------------------------------------------------------------------------------
+47. Code Location: Iteration & Loop Control Structure\multiplication_table.c
+   Question:
+     Create a program using for loop multiplication table for a number.
+--------------------------------------------------------------------------------
+48. Code Location: Iteration & Loop Control Structure\positive_number.c
+   Question:
+     Create a program that prompts the user to enter a positive number.
+     Use a do-while loop to keep asking for the number until
+     the user enters a valid positive number.
+--------------------------------------------------------------------------------
+49. Code Location: Iteration & Loop Control Structure\prime_number.c
+   Question:
+     Question 46:
+     Create a program using for loop to display
+     if a number is prime or not.
+--------------------------------------------------------------------------------
+50. Code Location: Iteration & Loop Control Structure\square_break_loop.c
+   Question:
+     Write a program that continuously reads integers from
+     the user and prints their squares.
+     Use an infinite loop and a break statement to exit
+     when a special number (e.g., -1) is entered.
+--------------------------------------------------------------------------------
+51. Code Location: Iteration & Loop Control Structure\sum_positive_continue.c
+   Question:
+     Create a program using continue to sum all positive numbers
+     entered by the user; skip any negative numbers.
+--------------------------------------------------------------------------------
+52. Code Location: Iteration & Loop Control Structure\sum_until_zero.c
+   Question:
+     Develop a program that calculates the sum of all numbers
+     entered by a user until the user enters 0.
+     The total sum should then be displayed.
+--------------------------------------------------------------------------------
+
+## Function and Recursion 🎉
+===========================
+53. Code Location: Function and Recursion\add_function.c
+   Question:
+     Question 51:
+     Write a function that adds that takes 4 int
+     parameters and returns the sum.
+--------------------------------------------------------------------------------
+54. Code Location: Function and Recursion\fibonacci_recursion.c
+   Question:
+     Create a program using recursion to display
+     the Fibonacci series upto a certain number.
+--------------------------------------------------------------------------------
+55. Code Location: Function and Recursion\get_average_function.c
+   Question:
+     Call a function get_average that takes five int
+     numbers and returns the average.
+--------------------------------------------------------------------------------
+56. Code Location: Function and Recursion\greet_function.c
+   Question:
+     Write a function named greet that prints
+     "Hello, World!" when called.
+--------------------------------------------------------------------------------
+57. Code Location: Function and Recursion\increment_function.c
+   Question:
+     Demonstrate with a function increment that the
+     original integer passed to it does not change
+     after incrementing it inside the function.
+--------------------------------------------------------------------------------
+58. Code Location: Function and Recursion\max_function.c
+   Question:
+     Create a function max that takes two float
+     arguments and returns the larger value.
+--------------------------------------------------------------------------------
+59. Code Location: Function and Recursion\palindrome_recursion.c
+   Question:
+     Create a program using recursion to check
+     if a number is a palindrome using recursion.
+--------------------------------------------------------------------------------
+60. Code Location: Function and Recursion\print_date_function.c
+   Question:
+     Call a function print_date that prints the current date.
+     Define the function without any parameters.
+--------------------------------------------------------------------------------
+61. Code Location: Function and Recursion\square_function.c
+   Question:
+     Define a function square that takes an int
+     and returns its square.
+--------------------------------------------------------------------------------
+
+## Pointers ⛔
+=============
+62. Code Location: Pointers\change_value_pointer.c
+   Question:
+     Write a program to change the value of an integer
+     variable using a pointer and the * operator.
+--------------------------------------------------------------------------------
+63. Code Location: Pointers\char_pointer.c
+   Question:
+     Declare a pointer to a char and use it to read
+     and print a character entered by the user.
+--------------------------------------------------------------------------------
+64. Code Location: Pointers\integer_pointer.c
+   Question:
+     Write a program that declares an integer variable
+     and a pointer to it. Assign a value and print it
+     using the pointer.
+--------------------------------------------------------------------------------
+65. Code Location: Pointers\minmax_pointer.c
+   Question:
+     Implement a void minmax(int *a, int *b, int *min, int *max)
+     function that takes two integer pointers a and b as input
+     and assigns the smaller value to min and the larger value
+     to max using call by reference.
+     Write a main function to test it with different values.
+--------------------------------------------------------------------------------
+
+## Data Types and Storage Classes 📜
+===================================
+66. Code Location: Data Types and Storage Classes\factorial_long_long.c
+   Question:
+     Write a program to demonstrate the difference
+     in range between long and long long by
+     calculating the factorial of 20.
+--------------------------------------------------------------------------------
+67. Code Location: Data Types and Storage Classes\kilometers_to_miles.c
+   Question:
+     Create a program that converts a large number of
+     kilometers to miles, using long or long long
+     to store the distance.
+--------------------------------------------------------------------------------
+68. Code Location: Data Types and Storage Classes\unsigned_wraparound.c
+   Question:
+     Write a C program that initializes an unsigned int
+     to its maximum possible value and an int to a
+     negative number.
+     Add 1 to both, and print the results to show
+     how the unsigned int wraps around to 0,
+     whereas the int remains negative due to overflow.
+--------------------------------------------------------------------------------
+
+## Arrays 🔃
+===========
+69. Code Location: Arrays\array_max_min.c
+   Question:
+     Create a program to find the maximum and minimum
+     element in an array.
+--------------------------------------------------------------------------------
+70. Code Location: Arrays\array_occurrences.c
+   Question:
+     Create a program to find number of occurrences
+     of an element in an array.
+--------------------------------------------------------------------------------
+71. Code Location: Arrays\array_palindrome.c
+   Question:
+     Create a program to check if the array is palindrome or not.
+--------------------------------------------------------------------------------
+72. Code Location: Arrays\array_sorted_check.c
+   Question:
+     Create a program to check if the given array is sorted.
+--------------------------------------------------------------------------------
+73. Code Location: Arrays\array_sum_average.c
+   Question:
+     Create a program to find the sum and average
+     of all elements in an array.
+--------------------------------------------------------------------------------
+74. Code Location: Arrays\copy_char_array_pointer.c
+   Question:
+     Write a function that uses pointer arithmetic
+     to copy an array of char into another.
+--------------------------------------------------------------------------------
+75. Code Location: Arrays\delete_array_element.c
+   Question:
+     Create a program to return a new array deleting
+     a specific element.
+--------------------------------------------------------------------------------
+76. Code Location: Arrays\diagonal_sum.c
+   Question:
+     Create a program to find the sum of two diagonal elements.
+--------------------------------------------------------------------------------
+77. Code Location: Arrays\merge_sorted_arrays.c
+   Question:
+     Create a program to merge two sorted arrays.
+--------------------------------------------------------------------------------
+78. Code Location: Arrays\reverse_array.c
+   Question:
+     Create a program to reverse an array.
+--------------------------------------------------------------------------------
+79. Code Location: Arrays\search_2d_array.c
+   Question:
+     Create a program to search an element in a 2-D array.
+--------------------------------------------------------------------------------
+80. Code Location: Arrays\sum_average_2d_array.c
+   Question:
+     Create a program to do sum and average
+     of all elements in a 2-array.
+--------------------------------------------------------------------------------
+
+## Strings 💬
+============
+81. Code Location: Strings\break_keyword_loop.c
+   Question:
+     Create a program using break to read inputs
+     from the user in a loop and break the loop
+     if a specific keyword (like "exit") is entered.
+--------------------------------------------------------------------------------
+82. Code Location: Strings\date_format.c
+   Question:
+     Use printf with format specifiers to format
+     and print a date string (day, month, year).
+--------------------------------------------------------------------------------
+83. Code Location: Strings\fgets_puts.c
+   Question:
+     Read a line of text from the user using fgets
+     and then print it using puts.
+--------------------------------------------------------------------------------
+84. Code Location: Strings\login_system.c
+   Question:
+     Create a simple text-based user login system
+     that compares a stored password string using strcmp.
+--------------------------------------------------------------------------------
+85. Code Location: Strings\password_checker.c
+   Question:
+     Create a program using do-while to find
+     password checker until a valid password is entered.
+--------------------------------------------------------------------------------
+86. Code Location: Strings\reverse_string_function.c
+   Question:
+     Write a function that takes a string
+     and reverses it in place.
+--------------------------------------------------------------------------------
+87. Code Location: Strings\string_palindrome.c
+   Question:
+     Create a program that checks if a given
+     string is a palindrome and outputs the result.
+--------------------------------------------------------------------------------
+88. Code Location: Strings\tic_tac_toe_board.c
+   Question:
+     Use a 2-D character array to store and
+     display a tic-tac-toe board.
+--------------------------------------------------------------------------------
+89. Code Location: Strings\trim_string.c
+   Question:
+     Implement a trim function that removes leading
+     and trailing spaces from a string.
+--------------------------------------------------------------------------------
+90. Code Location: Strings\uppercase_string.c
+   Question:
+     Write a program to convert an input string
+     to uppercase.
+--------------------------------------------------------------------------------
+
+## Structures 🎁
+===============
+91. Code Location: Structures\book_array_initializer.c
+   Question:
+     Initialize an array of Book structures with
+     different data for each book using designated initializers.
+--------------------------------------------------------------------------------
+92. Code Location: Structures\book_structure.c
+   Question:
+     Create a program where you need to store and process
+     data for a Book with attributes like title, author,
+     and price, demonstrating why a structure is more
+     suitable than separate variables.
+--------------------------------------------------------------------------------
+93. Code Location: Structures\car_description_function.c
+   Question:
+     Pass a Car structure to a function that prints
+     out a description of the car in one complete sentence.
+--------------------------------------------------------------------------------
+94. Code Location: Structures\car_structure.c
+   Question:
+     Define a Car structure with fields for
+     make, model, year, and color.
+--------------------------------------------------------------------------------
+95. Code Location: Structures\nested_structure_student_books.c
+   Question:
+     Write a function where the Student structure
+     also has books they have borrowed inside,
+     showing nested structure usage.
+--------------------------------------------------------------------------------
+96. Code Location: Structures\student_modify_gpa.c
+   Question:
+     Write a function that accepts a pointer to a
+     Student structure with fields for id, name,
+     year, gpa and modifies its grades.
+--------------------------------------------------------------------------------

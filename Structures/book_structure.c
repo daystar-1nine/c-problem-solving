@@ -15,6 +15,14 @@ struct Book {
 };
 
 int main() {
+    /*
+     * Logic:
+     * - Goal: Create a program where you need to store and process data for a Book with attributes like title, author, and price, demonstrating why a structure is more suitable than separate variables.
+     * - Prompts the user for required inputs.
+     * - Executes standard control flow, conditions, or loops to compute the result.
+     * - Prints the formatted output to the console.
+     */
+
 
     struct Book book1;
 
