@@ -7,7 +7,7 @@ to max using call by reference.
 Write a main function to test it with different values.
 */
 
-#include <stdio.h>
+#include <stdio.h> // Include standard I/O functions
 
 // Function Definition
 void minmax(int *a, int *b, int *min, int *max) {

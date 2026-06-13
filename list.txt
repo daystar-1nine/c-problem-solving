@@ -2,7 +2,7 @@
                       C PROGRAMMING QUESTIONS & LOCATIONS
 ================================================================================
 
-Total Files Listed: 96
+Total Files Listed: 107
 ================================================================================
 ## Introduction 🧘
 =================
@@ -258,7 +258,6 @@ Total Files Listed: 96
 ===========================
 53. Code Location: Function and Recursion\add_function.c
    Question:
-     Question 51:
      Write a function that adds that takes 4 int
      parameters and returns the sum.
 --------------------------------------------------------------------------------
@@ -501,4 +500,54 @@ Total Files Listed: 96
      Write a function that accepts a pointer to a
      Student structure with fields for id, name,
      year, gpa and modifies its grades.
+--------------------------------------------------------------------------------
+
+## Dynamic Memory Allocation 🧠
+==============================
+97. Code Location: Dynamic Memory Allocation\calloc_sentence.c
+   Question:
+     Allocates dynamic character array using calloc, reads a sentence, and releases the memory.
+--------------------------------------------------------------------------------
+98. Code Location: Dynamic Memory Allocation\car_malloc.c
+   Question:
+     Allocates dynamic memory for a car structure using malloc, initializes fields, and frees memory.
+--------------------------------------------------------------------------------
+99. Code Location: Dynamic Memory Allocation\float_array_malloc.c
+   Question:
+     Dynamically allocates memory for an array of floats, populates elements, and calculates sum/average.
+--------------------------------------------------------------------------------
+100. Code Location: Dynamic Memory Allocation\point_struct_malloc.c
+   Question:
+     Dynamically allocates memory for a point structure, stores coordinate values, and releases memory.
+--------------------------------------------------------------------------------
+101. Code Location: Dynamic Memory Allocation\realloc_shrink.c
+   Question:
+     Demonstrates how to resize dynamically allocated memory blocks using realloc.
+--------------------------------------------------------------------------------
+
+## File Input/Output 📁
+======================
+102. Code Location: File InputOutput\append_log.c
+   Question:
+     Opens a log file in append mode ('a') and appends user-input text to it.
+--------------------------------------------------------------------------------
+103. Code Location: File InputOutput\check_file_open.c
+   Question:
+     Attempts to open a file and checks for NULL to verify if the file exists and is accessible.
+--------------------------------------------------------------------------------
+104. Code Location: File InputOutput\copy_file.c
+   Question:
+     Copies content character-by-character from a source file to a destination file.
+--------------------------------------------------------------------------------
+105. Code Location: File InputOutput\read_write_file.c
+   Question:
+     Writes text to a file and reads it back to display on the console.
+--------------------------------------------------------------------------------
+106. Code Location: File InputOutput\sum_from_file.c
+   Question:
+     Reads integers from a text file and computes their total sum.
+--------------------------------------------------------------------------------
+107. Code Location: File InputOutput\write_lines.c
+   Question:
+     Writes multiple lines of text entered by the user into a text file.
 --------------------------------------------------------------------------------

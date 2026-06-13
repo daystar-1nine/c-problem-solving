@@ -1,5 +1,4 @@
 /*
-Question 51:
 Write a function that adds that takes 4 int
 parameters and returns the sum.
 */
